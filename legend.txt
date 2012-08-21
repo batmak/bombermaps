@@ -1,0 +1,10 @@
+0..b	player
+x	blank
+~	water
+S	ice
+.	wooden wall
+*	wall
++	barrel
+-	whirlpool
+<>v^	arrow
+
